@@ -1,2 +1,0 @@
-# bosch
-Created with CodeSandbox
